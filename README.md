@@ -1,4 +1,5 @@
 # QuantEngine ⚡
+<img width="1512" height="776" alt="Screenshot 2025-11-19 at 8 13 33 PM" src="https://github.com/user-attachments/assets/911ba61a-e8af-48df-be0e-e2bc652285b6" />
 
 **Financial Intelligence Redefined for the Modern Era.**
 A browser-based, privacy-first financial modeling platform powered by WebAssembly and Python.
