@@ -9,7 +9,7 @@ A browser-based, privacy-first financial modeling platform powered by WebAssembl
 
 ## 📋 Overview
 
-QuantEngine is a sophisticated financial dashboard that brings the power of Python's data science libraries (NumPy) directly into the browser via **Pyodide**. Unlike traditional dashboards that rely on server-side processing, QuantEngine executes complex valuation models, linear regressions, and sensitivity analyses entirely on the client side.
+FinMet is a sophisticated financial dashboard that brings the power of Python's data science libraries (NumPy) directly into the browser via **Pyodide**. Unlike traditional dashboards that rely on server-side processing, FinMet executes complex valuation models, linear regressions, and sensitivity analyses entirely on the client side.
 
 This project demonstrates the intersection of **Institutional Finance**, **Data Science**, and **Modern Web Architecture**, specifically designed to solve complex forecasting and valuation challenges found in utility and energy sectors.
 
