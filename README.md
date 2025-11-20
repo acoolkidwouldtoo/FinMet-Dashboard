@@ -86,7 +86,7 @@ This project was engineered to demonstrate core competencies required for **Fina
 *   **Financial Modeling:** DCF valuation, linear projection, and sensitivity analysis.
 *   **Risk Management:** Understanding of "Cone of Uncertainty" and scenario planning (Bull/Bear cases).
 *   **Data Integrity:** Automated validation logic to ensure reporting accuracy.
-*   **Technical Proficiency:** bridging the gap between traditional finance (Excel) and modern data science (Python/SQL/Web).
+*   **Technical Proficiency:** Bridging the gap between traditional finance (Excel) and modern data science (Python/SQL/Web).
 
 ## 📄 License
 
