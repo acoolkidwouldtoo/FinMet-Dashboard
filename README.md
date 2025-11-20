@@ -1,4 +1,5 @@
 # FinMetrics ⚡
+<img width="1512" height="786" alt="Screenshot 2025-11-19 at 8 30 21 PM" src="https://github.com/user-attachments/assets/31bc6e98-b1ce-4a14-acff-2deb035f5514" />
 
 **Financial Intelligence Redefined for the Modern Era.**
 A browser-based, privacy-first financial modeling platform powered by WebAssembly and Python.
@@ -19,6 +20,8 @@ This project demonstrates the intersection of **Institutional Finance**, **Data 
 *   **Function:** Performs linear regression on historical datasets to project future growth.
 *   **Risk Modeling:** Includes a "Cone of Uncertainty" visualization, allowing users to adjust sensitivity sliders (±5% to ±30%) to generate Bull and Bear case scenarios.
 *   **Strategic Insights:** Automatically generates natural language commentary on CAGR (Compound Annual Growth Rate) and trend direction.
+*   <img width="1512" height="732" alt="Screenshot 2025-11-19 at 8 14 25 PM" src="https://github.com/user-attachments/assets/9422fbf3-5bed-4b39-96c5-dc820db6a68f" />
+
 
 ### 2. 💎 Intrinsic Valuation (DCF Model)
 *   **Methodology:** 2-Stage Discounted Cash Flow (DCF) model.
@@ -26,14 +29,20 @@ This project demonstrates the intersection of **Institutional Finance**, **Data 
     *   Real-time calculation of Enterprise Value and Fair Value per Share.
     *   Adjustable WACC, Terminal Growth, and Net Debt assumptions.
     *   **Waterfall Bridge:** Visualizes the contribution of near-term cash flows vs. terminal value to the total valuation.
+    *   <img width="1512" height="747" alt="Screenshot 2025-11-19 at 8 14 41 PM" src="https://github.com/user-attachments/assets/bb4a1777-78f0-40f1-a8db-a5451bf15530" />
+
 
 ### 3. ⚠️ Risk & Variance Control
 *   **Variance Analysis:** Automated detection of Budget vs. Actual discrepancies.
 *   **Sensitivity Matrix:** A multivariate heatmap stress-testing Net Income against simultaneous shocks to Revenue and Cost structures (Simulation of ±10% volatility).
+*   <img width="1512" height="749" alt="Screenshot 2025-11-19 at 8 14 37 PM" src="https://github.com/user-attachments/assets/5609a869-841e-4b50-9312-a6050593a689" />
+
 
 ### 4. 🛡️ Data Integrity & Export
 *   **Integrity Scanner:** Automated "Health Check" upon CSV upload. Scans for null values, outliers, and fiscal year anomalies to ensure data quality before processing.
 *   **Professional Reporting:** One-click generation of multi-sheet Excel reports (via SheetJS) containing raw data, forecast models, and executive summaries.
+*   <img width="872" height="171" alt="Screenshot 2025-11-19 at 8 21 12 PM" src="https://github.com/user-attachments/assets/2cbe9071-8689-46a7-a662-300c6fae4c3b" />
+
 
 ## 🛠️ Technical Architecture
 
