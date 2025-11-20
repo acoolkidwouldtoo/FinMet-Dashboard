@@ -73,11 +73,16 @@ This project demonstrates the intersection of **Institutional Finance**, **Data 
 
 3.  **Start the development server**
     ```bash
-    npm start
+    npm run dev
     ```
 
-4.  **Open your browser**
-    Navigate to `http://localhost:3000` to access the dashboard.
+4.  **Build for production** (Optional)
+    ```bash
+    npm run build
+    ```
+
+5.  **Open your browser**
+    Navigate to the URL shown in your terminal (usually `http://localhost:5173`) to access the dashboard.
 
 ## 📊 How to Use
 
